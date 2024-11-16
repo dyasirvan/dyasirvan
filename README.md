@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Dyas Irvan 
-- 👀 I’m interested in Kotlin, Laravel 8, VueJS, etc
-- 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on Android Dev
+- 👋 Hi, I’m Dyas 
+- 👀 I’m interested in Java, Go, BunJS, Laravel 8, VueJS, etc
+- 🌱 I’m currently learning Message Broker
+- 💞️ I’m looking to collaborate on Backend Developer
 - 📫 You can contact me in dyas.mail@gmail.com 
 
 <!---
